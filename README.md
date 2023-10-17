@@ -29,5 +29,3 @@ The Student Performance Analyser is a machine learning model I developed as part
 Shopalytics represents a significant milestone in my academic journey. It's a major project dedicated to the analysis of e-commerce reviews and customer feedback. Leveraging natural language processing and data analytics, this project provides valuable insights into consumer sentiment and feedback trends, assisting businesses in making data-driven decisions to improve their products and services. 📚
 
 Thank you for visiting my UG portfolio repository! 😊
-  
-Thank you for visiting my UG portfolio repository! 😊
